@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou desenvolvedor FullStack com 2 anos de experiência em Python, Django, Power BI, SQL e Excel, focado em criar soluções eficientes e impactantes que atendam às necessidades do mercado. Atualmente, estou cursando Engenharia de Software pela Cruzeiro do Sul, com conclusão prevista para 2027, onde venho aprimorando minha base técnica e habilidades em desenvolvimento de sistemas.
+Sou desenvolvedor back-end com 2 anos de experiência em Python, Django, Power BI, SQL e Excel, focado em criar soluções eficientes e impactantes que atendam às necessidades do mercado. Atualmente, estou cursando Engenharia de Software pela Cruzeiro do Sul, com conclusão prevista para 2027, onde venho aprimorando minha base técnica e habilidades em desenvolvimento de sistemas.
 
 Ao longo da minha jornada, desenvolvi sólida experiência em análise de dados, automação de processos e criação de sistemas web, sempre buscando a excelência em cada projeto. Sou movido pelo desejo de aprender continuamente e compartilhar meu conhecimento, contribuindo ativamente com a comunidade tech e impulsionando a transformação digital.
 
