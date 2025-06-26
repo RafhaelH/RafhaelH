@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rafhael Henrique Cimento!
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor back-end`**
 
 Sou desenvolvedor back-end com 2 anos de experiência em Python, Django, Power BI, SQL e Excel, focado em criar soluções eficientes e impactantes que atendam às necessidades do mercado. Atualmente, estou cursando Engenharia de Software pela Cruzeiro do Sul, com conclusão prevista para 2027, onde venho aprimorando minha base técnica e habilidades em desenvolvimento de sistemas.
 
