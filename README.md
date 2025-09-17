@@ -45,8 +45,10 @@ Desenvolvedor backend com **3 anos de experiência** especializado em **Python**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafhaelh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400"/>
+  
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafhaelh&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rafhaelh&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
 </div>
@@ -78,6 +80,14 @@ Desenvolvedor backend com **3 anos de experiência** especializado em **Python**
 - **Business Intelligence:** Dashboards Power BI, relatórios automatizados
 - **Data Processing:** Pandas, NumPy, análise estatística
 - **SQL Avançado:** Procedures, triggers, views complexas, query optimization
+
+---
+
+## Foco Técnico Atual
+
+**Aprofundamento em arquiteturas distribuídas** com foco em escalabilidade e performance. Implementação de **padrões de design avançados** para sistemas complexos e **otimização de integrações** entre múltiplos serviços.
+
+**Estudos em andamento:** Kubernetes, AWS/Azure, Apache Kafka, GraphQL, testes automatizados avançados.
 
 ---
 
