@@ -87,8 +87,6 @@ Desenvolvedor backend com **3 anos de experiência** especializado em **Python**
 
 **Aprofundamento em arquiteturas distribuídas** com foco em escalabilidade e performance. Implementação de **padrões de design avançados** para sistemas complexos e **otimização de integrações** entre múltiplos serviços.
 
-**Estudos em andamento:** Kubernetes, AWS/Azure, Apache Kafka, GraphQL, testes automatizados avançados.
-
 ---
 
 ## Contato Profissional
