@@ -90,36 +90,64 @@ Cursando **Engenharia de Software** pela Cruzeiro do Sul (conclusão em 2027).
 
 ---
 
-## O que faço
+## Expertise
 
-```
-Backend Development    ████████████████████████░░   95%
-API Design & REST      ████████████████████████░░   93%
-System Integrations    ██████████████████████░░░░   88%
-Database Design        ██████████████████████░░░░   85%
-DevOps & Docker        ████████████████████░░░░░░   80%
-Data Analysis          ██████████████████░░░░░░░░   72%
-```
-
-**Desenvolvimento Backend** — APIs REST de alta performance com FastAPI (async) e Django REST Framework. Clean Architecture, SOLID, design patterns aplicados na prática.
-
-**Banco de Dados & ORM** — SQLAlchemy async com PostgreSQL, migrations com Alembic, otimização de queries, cache com Redis, modelagem relacional.
-
-**Integrações** — Consumo e integração de APIs externas, webhooks, processamento assíncrono com filas de mensagens.
-
-**DevOps** — Docker multi-stage builds, Docker Compose para dev/prod, CI/CD com GitHub Actions, logging estruturado.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔹 Backend Development</h3>
+      <ul>
+        <li>APIs REST com <strong>FastAPI</strong> (async) e <strong>Django REST Framework</strong></li>
+        <li>Clean Architecture, SOLID, design patterns</li>
+        <li>Autenticação JWT, OAuth2, rate limiting</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔹 Database & ORM</h3>
+      <ul>
+        <li><strong>SQLAlchemy async</strong> + PostgreSQL + Alembic</li>
+        <li>Otimização de queries, indexação, cache com Redis</li>
+        <li>Modelagem relacional e migrations versionadas</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔹 Integrations</h3>
+      <ul>
+        <li>APIs externas, webhooks, message brokers</li>
+        <li>Processamento assíncrono com filas</li>
+        <li>Web scraping e ETL pipelines</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔹 DevOps</h3>
+      <ul>
+        <li>Docker multi-stage, Docker Compose dev/prod</li>
+        <li>CI/CD com GitHub Actions</li>
+        <li>Logging estruturado, health checks, monitoramento</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafhaelh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafhaelh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
+  <a href="https://github.com/rafhaelh">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafhaelh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafhaelh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+  <a href="https://github.com/rafhaelh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafhaelh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
+  </a>
 </div>
 
 ---
