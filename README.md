@@ -137,8 +137,8 @@ Cursando **Engenharia de Software** pela Cruzeiro do Sul (conclusão em 2027).
 
 <div align="center">
   <a href="https://github.com/rafhaelh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafhaelh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafhaelh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafhaelh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
   </a>
 </div>
 
