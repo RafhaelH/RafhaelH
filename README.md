@@ -2,7 +2,7 @@
 
 # Rafhael Henrique Cimento
 
-**Backend Developer** · Python · FastAPI · Django
+**Software Engineer** · Sistemas Corporativos · APIs · Integrações ERP
 
 <p>
   <a href="https://www.linkedin.com/in/rafhaelh/">
@@ -21,115 +21,105 @@
 
 ---
 
-Desenvolvedor backend com **3,5 anos de experiência** construindo APIs de alta performance, integrações entre sistemas e arquiteturas escaláveis. Especializado em **Python** com foco em **FastAPI** e **Django**, utilizando práticas modernas de desenvolvimento assíncrono e containerização.
+Sou desenvolvedor de software com foco na construção de **sistemas corporativos, aplicações web, APIs e integrações** voltadas para operações reais de empresas.
 
-Cursando **Engenharia de Software** pela Cruzeiro do Sul (conclusão em 2027).
+Trabalho principalmente com **Python, Django e FastAPI**, criando soluções para automação de processos, gestão operacional, controle de dados, integrações com **ERP Protheus**, plataformas internas e produtos digitais. Meu objetivo é transformar processos manuais e dados dispersos em sistemas seguros, escaláveis e fáceis de utilizar.
+
+Também sou sócio da **Tesserato Integra**, onde atuo no desenvolvimento de soluções personalizadas, sistemas SaaS e produtos digitais para empresas.
+
+Cursando **Engenharia de Software** pela Cruzeiro do Sul Virtual.
 
 ---
 
-## Tech Stack
+## Tecnologias e ferramentas
 
 <table>
   <tr>
-    <td align="center" width="140"><strong>Backend</strong></td>
+    <td align="center" width="160"><strong>Backend & APIs</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>ORM & Data</strong></td>
+    <td align="center"><strong>Dados</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Modelagem_de_Dados-4B5563?style=flat-square&logo=databricks&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps</strong></td>
+    <td align="center"><strong>Infraestrutura</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Testing</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Analytics</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQL_Avançado-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ferramentas</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## Expertise
+## Áreas de atuação
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🔹 Backend Development</h3>
+      <h3>🔹 Sistemas corporativos</h3>
       <ul>
-        <li>APIs REST com <strong>FastAPI</strong> (async) e <strong>Django REST Framework</strong></li>
-        <li>Clean Architecture, SOLID, design patterns</li>
-        <li>Autenticação JWT, OAuth2, rate limiting</li>
+        <li>Plataformas internas para operação, qualidade, produção, PCP, logística e gestão de processos</li>
+        <li>Digitalização de fluxos manuais e centralização de informações</li>
+        <li>Interfaces focadas em produtividade, clareza e uso no dia a dia</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🔹 Database & ORM</h3>
+      <h3>🔹 APIs e integrações</h3>
       <ul>
-        <li><strong>SQLAlchemy async</strong> + PostgreSQL + Alembic</li>
-        <li>Otimização de queries, indexação, cache com Redis</li>
-        <li>Modelagem relacional e migrations versionadas</li>
+        <li>APIs REST com FastAPI e Django REST Framework</li>
+        <li>Integração entre sistemas, serviços internos e sistemas legados</li>
+        <li>Integrações com ERP Protheus e automação de processos empresariais</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔹 Integrations</h3>
+      <h3>🔹 Dados e arquitetura</h3>
       <ul>
-        <li>APIs externas, webhooks, message brokers</li>
-        <li>Processamento assíncrono com filas</li>
-        <li>Web scraping e ETL pipelines</li>
+        <li>Modelagem relacional, consultas SQL e organização de dados</li>
+        <li>Arquiteturas desacopladas e soluções preparadas para evolução</li>
+        <li>Dashboards e indicadores operacionais quando agregam valor ao processo</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🔹 DevOps</h3>
+      <h3>🔹 Entrega e infraestrutura</h3>
       <ul>
-        <li>Docker multi-stage, Docker Compose dev/prod</li>
-        <li>CI/CD com GitHub Actions</li>
-        <li>Logging estruturado, health checks, monitoramento</li>
+        <li>Containerização com Docker e Docker Compose</li>
+        <li>Deploy e manutenção de aplicações em ambientes Linux e VPS</li>
+        <li>Versionamento, organização de projetos e boas práticas de desenvolvimento</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## Em evolução contínua
+
+Aprofundando conhecimentos em **arquitetura de software, Go, DevOps, inteligência artificial aplicada e construção de produtos SaaS**.
 
 ---
 
@@ -153,5 +143,5 @@ Cursando **Engenharia de Software** pela Cruzeiro do Sul (conclusão em 2027).
 ---
 
 <div align="center">
-  <strong>Building reliable systems, one API at a time.</strong>
+  <strong>Construindo soluções que conectam processos, pessoas e sistemas.</strong>
 </div>
